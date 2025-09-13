@@ -1,0 +1,11 @@
+{
+  "title": "Dashboard",
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "invalid": "Invalid credentials",
+    "loggingIn": "Logging in..."
+  },
+  "logout": "Logout"
+}

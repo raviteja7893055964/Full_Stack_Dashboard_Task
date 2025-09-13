@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "primereact/resources/themes/saga-blue/theme.css";
+@import "primereact/resources/primereact.min.css";
+@import "primeicons/primeicons.css";
+@import "primeflex/primeflex.css";
+
+:root {
+  --app-bg: #ffffff;
+  --app-text: #030303;
+}
+
+.dark {
+  --app-bg:  #030303;
+  --app-text:  #ffffff;
+}
+
+body {
+  background-color: var(--app-bg);
+  color: var(--app-text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+button {
+  border-radius: 0.5rem;
+}

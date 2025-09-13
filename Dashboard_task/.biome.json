@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "root": true,
+  "format": {
+    "preserveNodeModules": true
+  },
+  "linter": {
+    "enabled": true
+  }
+}

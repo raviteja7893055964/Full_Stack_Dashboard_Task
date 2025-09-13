@@ -1,6 +1,7 @@
 # Full_Stack_Dashboard_Task
 A full-stack dashboard application with user authentication. Users can login and access dashboard based on token. The app supports light/dark themes and english/hindi languages.
 
+
 Overview:
 	Authentication (Login, Logout, Protected Dashboard)
 	Theme management (Light/Dark mode)
